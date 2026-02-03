@@ -1,4 +1,4 @@
-# DebugFlow
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/Debug-Flow/art/refs/heads/main/logo.svg" width="400"></a></p>
 
 A powerful, extensible debugging tool inspired by Spatie's Ray. DebugFlow helps you debug your applications by sending debug messages to a beautiful desktop application.
 
