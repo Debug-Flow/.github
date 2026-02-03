@@ -17,7 +17,7 @@ A powerful, extensible debugging tool inspired by Spatie's Ray. DebugFlow helps 
 ```
 debugflow/
 ├── desktop-app/         # Electron desktop application
-├── laravel-driver/      # Laravel/PHP driver [WIP]
+├── laravel-driver/      # Laravel/PHP driver
 └── javascript-driver/   # JavaScript/Node.js driver
 ```
 
@@ -33,7 +33,7 @@ npm run dev
 
 The app will start on port 23518.
 
-### 2. Install Laravel Driver [WIP]
+### 2. Install Laravel Driver
 
 ```bash
 cd laravel-driver

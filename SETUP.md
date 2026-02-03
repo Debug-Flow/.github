@@ -4,7 +4,7 @@
 
 - Node.js 16+ (for desktop app and JavaScript driver)
 - PHP 8.1+ and Composer (for Laravel driver)
-- A Laravel project (for testing Laravel driver) [WIP]
+- A Laravel project (for testing Laravel driver)
 
 ## Step-by-Step Setup
 
@@ -64,7 +64,7 @@ npx http-server -p 8080
 
 Then open: http://localhost:8080/test.html
 
-### 3. Laravel Driver [WIP]
+### 3. Laravel Driver
 
 #### Install Dependencies
 
